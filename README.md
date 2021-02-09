@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+ Hi
+ I am chris and I am an aspiring software developer.
